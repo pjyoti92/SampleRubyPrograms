@@ -1,0 +1,3 @@
+class ClipBoardCopyPaste
+  
+end
